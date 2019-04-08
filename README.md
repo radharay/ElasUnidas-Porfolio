@@ -14,6 +14,7 @@
  </ul>
  
  <h3>Criando um repositório no github:</h3>
+ <p><a href="https://www.youtube.com/watch?v=U_ldFlBrLe4" target="blank">Clique para assistir o vídeo, com o passo-a-passo</a>, feito pela <a href="https://github.com/ThaisGO" target="blak">Thais Gomes</a>
  
  <h3>HTML</h3>
  <p>O HTML terá 3 divs</p>
