@@ -4,6 +4,8 @@
 
 >Utilizamos conteúdo visto na semana 01 - semana 04, do grupo de estudo {Elas Unidas}, <a href="https://github.com/radharay/ElasUnidas-ProjetoMirrorFashion" target="blank">Projeto Mirror Fashion</a>
 
+>Exercício produzido no 4º encontro presencial.
+
 <h2>Instruções:</h2>
 <ul>
   <li>Criar um repositório no github e clonar na sua máquina</li>
