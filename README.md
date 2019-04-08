@@ -20,6 +20,8 @@
   <li>Div filha 01 e div filha 02</li>
  </ul>
  
+![exemplo](https://github.com/radharay/ElasUnidas-Porfolio/blob/master/img/exemplo.jpg)
+ 
  <h3>CSS</h3>
  <ul>
   <li>Uma imagem de fundo ou uma cor</li>
@@ -29,4 +31,9 @@
   <li>Na div filha 02, defina o "espaçamento" e coloque em reponsivo, para smartphone, tablets e desktops</li>
   </ul>
   
-<p><em>: Espaçamento é para definir: margin, padding, width, height... quando necessário</p>
+<p><em>Espaçamento é para definir: margin, padding, width, height... quando necessário<em></p>
+  
+  <h3>Resultado final:</h3>
+  
+  
+ ![resultado](https://github.com/radharay/ElasUnidas-Porfolio/blob/master/img/resultado.jpg)
