@@ -1,1 +1,32 @@
 # ElasUnidas-Porfolio
+
+>Exercício opcional, baseado na aula de Reposivo, do nivelamento da <a href="https://github.com/reprograma" target="blank">{Repograma}</a>
+
+>Utilizamos conteúdo visto na semana 01 - semana 04, do grupo de estudo {Elas Unidas}, <a href="https://github.com/radharay/ElasUnidas-ProjetoMirrorFashion" target="blank">Projeto Mirror Fashion</a>
+
+<h2>Instruções:</h2>
+<ul>
+  <li>Criar um repositório no github e clonar na sua máquina</li>
+  <li>Criar dois arquivos, um HTML e outro em CSS;</li>
+  <li>Criar uma pasta para colocar as imagens, por exemplo: img</li>
+ </ul>
+ 
+ <h3>Criando um repositório no github:</h3>
+ 
+ <h3>HTML</h3>
+ <p>O HTML terá 3 divs</p>
+<ul>
+  <li>Div mãe</li>
+  <li>Div filha 01 e div filha 02</li>
+ </ul>
+ 
+ <h3>CSS</h3>
+ <ul>
+  <li>Uma imagem de fundo ou uma cor</li>
+  <li>Defina as fontes e o tamanho dos títulos (nome-sobrenome e profissão)</li>
+  <li>Na div mãe, defina o "espaçamento", a imagem de fundo ou uma cor</li>
+  <li>Na div filha 01, em img, deixe a imagem redonda e  defina o seu "espaçamento".</li>
+  <li>Na div filha 02, defina o "espaçamento" e coloque em reponsivo, para smartphone, tablets e desktops</li>
+  </ul>
+  
+<p><em>: Espaçamento é para definir: margin, padding, width, height... quando necessário</p>
