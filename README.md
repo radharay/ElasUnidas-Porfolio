@@ -1,6 +1,6 @@
 # ElasUnidas-Porfolio
 
->Exercício opcional, baseado na aula de Reposivo, do nivelamento da <a href="https://github.com/reprograma" target="blank">{Repograma}</a>
+>Exercício opcional, baseado na aula de Responsivo, do nivelamento da <a href="https://github.com/reprograma" target="blank">{Repograma}</a>
 
 >Utilizamos conteúdo visto na semana 01 - semana 04, do grupo de estudo {Elas Unidas}, <a href="https://github.com/radharay/ElasUnidas-ProjetoMirrorFashion" target="blank">Projeto Mirror Fashion</a>
 
