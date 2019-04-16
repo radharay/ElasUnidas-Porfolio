@@ -1,4 +1,4 @@
-# ElasUnidas-Porfolio
+# ElasUnidas-Portfolio
 
 >Exercício opcional, baseado na aula de Responsivo, do nivelamento da <a href="https://github.com/reprograma" target="blank">{Repograma}</a>
 
